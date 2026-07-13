@@ -4,13 +4,13 @@
 This repository contains my notes and learning from the TryHackMe **SOC Fundamentals** room. It covers the basic concepts of a Security Operations Center (SOC), including its purpose, team roles, processes, technologies, and practical SOC operations.
 
 ## Topics Covered
-- Introduction to SOC
-- Purpose and Components of a SOC
-- SOC Team Roles (L1, L2, L3 Analysts)
-- Incident Response Process
-- SOC Technologies (SIEM, EDR, IDS/IPS)
-- Practical SOC Exercise
-- Key Takeaways
+- Task 1 - Introduction to SOC
+- Task 2 - Purpose and Components
+- Task 3 - People
+- Task 4 - Process
+- Task 5 - Technology
+- Task 6 - Practical Exercise of SOC
+- Task 7 - Conclusion
 
 ## Skills Gained
 - SOC Fundamentals
