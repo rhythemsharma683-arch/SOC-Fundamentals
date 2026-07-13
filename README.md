@@ -24,4 +24,4 @@ This repository contains my notes and learning from the TryHackMe **SOC Fundamen
 - TryHackMe – SOC Fundamentals (https://tryhackme.com/room/socfundamentals?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=69c948f77b05e27f45701124)
 
 ## Status
-✅ Completed (100%)
+Completed (100%)
